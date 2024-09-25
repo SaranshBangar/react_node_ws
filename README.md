@@ -45,5 +45,5 @@ If you'd like to contribute to this project, feel free to submit a pull request 
 
 ## Contact Information
 
-- **LinkedIn**: [Saransh Bangar](https://www.linkedin.com/in/saransh-bangar/)
-- **Resume**: [Saransh's Resume](https://rxresu.me/saranshbangad/software-developer)
+- **LinkedIn** : [Saransh Bangar](https://www.linkedin.com/in/saransh-bangar/)
+- **Resume** : [Saransh's Resume](https://rxresu.me/saranshbangad/software-developer)

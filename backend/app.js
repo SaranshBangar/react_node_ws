@@ -1,11 +1,16 @@
 const { connection } = require('./db');
 
+const cors = require('cors'); // CORS = Cross Origin Resource Sharing
+
 const express = require('express');
 const app = express();
-const port = 3000;
+const port = 3005;
 
 // Prepares the express app to accept JSON data
 app.use(express.json());
+
+// Allows the app to accept requests from any origin
+app.use(cors());
 
 // API to add a user
 app.post('/add', (req, res) => {
